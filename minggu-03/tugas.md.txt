@@ -13,4 +13,4 @@ Cons:
 Lemahnya sistem security dibanding sistem backup lain.
 
 #Arsitektur SaaS
-![](./ArsitekturSaas1.png)
+![](./ArsitekturSaaS1.png)
