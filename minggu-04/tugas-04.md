@@ -1,4 +1,4 @@
-#Rangkuman BPaaS
+# Rangkuman BPaaS
 
 Business Process as a Service
 
@@ -10,7 +10,7 @@ Perusahaan telah mengotomatisasi proses bisnis selama beberapa dekade. Awalnya, 
 
 Dalam beberapa kasus, seluruh proses bisnis outsourcing perusahaan mungkin menerapkan proses secara manual atau melalui otomatisasi. Dengan munculnya komputasi awan, pendekatan ini mulai berubah. Semakin, perusahaan sedang melihat pendekatan berorientasi-layanan yang lebih kepada pelayanan. Daripada berasumsi bahwa Anda perlu paket aplikasi yang meliputi logika bisnis, data, dan proses, itu mungkin untuk memilih aplikasi proses yang tidak terikat ke satu aplikasi
 
-#Contoh Penyedia Layanan BPaaS
+# Contoh Penyedia Layanan BPaaS
 1. http://www.wipro.com/
 menyediakan Layanan Bpaas :
 - Business process outsourcing (http://www.wipro.com/services/business-process-outsourcing-BPO-services/)
