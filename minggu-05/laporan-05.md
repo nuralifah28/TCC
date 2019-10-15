@@ -10,7 +10,7 @@
 ![](./prak3.png)
 6. Memastikan Container dalam keadaan Up.
 ![](./prak4.png)
-7. Test Cluste.
+7. Test Cluster.
 ![](./prak5.png)
 8. Membuat database.
 ![](./prak6.png)
@@ -21,4 +21,4 @@
 11. Menginputkan data ke dalam database mhs.
 ![](./prak9.png)
 12. Melihat isi tabel.
-1[](./prak10.png)
+![](./prak10.png)
