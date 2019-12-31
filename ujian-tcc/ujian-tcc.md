@@ -37,7 +37,7 @@ Responsi Teknologi Cloud Computing
     Ringkasan : pada pertemuan 11 menjelaskan tentang Konsep IaaS, Berbagai Software Iaas,  Getting started software IaaS dengan yang dipilih yaitu Opennebula, dan arsitekur dan konsep deployment pada software Iaas yang dipiluh (Opennebula)
 12. Materi Praktikum 12:
     URL : https://github.com/nuralifah28/tcc/tree/master/minggu-12
-    Ringkasan :
+    Ringkasan : install drupal menggunakan docker compose, drupal adalah paltform opensource yang mendukung jutaan situs web dan aplikasi
 13. Materi Praktikum 13:
     URL : https://github.com/nuralifah28/tcc/tree/master/minggu-13
     Ringkasan:
