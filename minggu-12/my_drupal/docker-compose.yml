@@ -12,19 +12,3 @@ services:
       - drupal_sites: /var/www/html/sites
     restart: always
 
-  postgres:
-    image: postgres:10
-    environment:
-      POSTGRES_PASSWORD: Alifah123
-    ports:
-      - 5432:5432
-    volumes:
-      - db_data:/var/lib/postgresql/data
-    restart: always
-
-  volumes:
-    drupal_modules:
-    drupal_profiles:
-    drupal_themes:
-    drupal_sites:
-    db_data:
